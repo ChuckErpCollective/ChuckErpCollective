@@ -1,4 +1,4 @@
-- 👋 Hi, welcome to the ERP Collective. Learning ERP is hard. We make it easier!
+👋 Hi, welcome to the ERP Collective. Learning ERP is hard. We make it easier!
 
 
 <!---
